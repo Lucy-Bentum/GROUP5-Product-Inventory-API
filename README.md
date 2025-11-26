@@ -20,3 +20,6 @@ A simple Express.js CRUD API that simulates product inventory management using *
 3. Start server using:  
    ```bash
    npx nodemon server.js
+4. start sever using
+   ''' command prompt
+   npm run dev
